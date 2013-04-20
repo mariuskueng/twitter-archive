@@ -1,0 +1,6 @@
+BeautifulSoup==3.2.1
+Django==1.5.1
+https://github.com/mariuskueng/python-twitter/archive/master.zip
+South==0.7.6
+python-twitter==0.8.7
+pytz==2013b
